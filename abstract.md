@@ -1,0 +1,6 @@
+## 摘要：
+#### IPv4采用32位定长二进制地址，其地址空间不足的问题早已凸显。网络地址转换（NAT）作为临时应对方案，虽在一定程度上缓解了地址稀缺压力，却破坏了互联网端到端通信的核心原则，仅支持内网主动访问外网，无法满足外网对内网的直接访问需求。尽管业界陆续提出多种解决方案，但均存在固有局限。本文提出一种基于多级变长地址的创新方案（IP++），可从根源上破解这一难题，使IP协议回归端到端的基本原则。该方案的多级变长地址结构与互联网天然的层次化拓扑高度契合，具备兼容性强、部署便捷、易用性突出等核心优势。
+
+
+## Abstract:
+#### IPv4 adopts 32-bit fixed-length addresses,the problem of insufficient address space has long been prominent. Network Address Translation (NAT), as a temporary workaround, has alleviated the pressure of address scarcity to a certain extent,but undermined the core principle of end-to-end communication on the Internet. It only supports active access from the internal network to the external network and cannot meet the demand for direct access from the external network to the internal network. Although various solutions have been proposed successively in the industry, all of them suffer from inherent limitations. This paper proposes an innovative multi-level variable-length address scheme named IP++, which fundamentally solves this dilemma and enables the IP protocol to return to the basic end-to-end principle. The multi-level variable-length address structure of the proposed scheme is highly compatible with the natural hierarchical topology of the Internet, and it possesses core advantages such as strong compatibility, convenient deployment and outstanding usability.
